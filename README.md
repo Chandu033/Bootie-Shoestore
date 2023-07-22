@@ -13,3 +13,7 @@ User-friendly Interface: The e-commerce store will boast an intuitive and visual
 AI-driven Product Recommendations: By implementing Artificial Intelligence algorithms, the platform will analyze customer behavior and preferences to provide personalized product recommendations. This feature will enhance cross-selling and upselling opportunities, increasing customer satisfaction and engagement.
 
 Virtual Try-On and Size Guides: To address the challenge of finding the perfect fit, the e-commerce store will integrate virtual try-on technology and comprehensive size guides. Customers will be able to virtually try on shoes, ensuring they make the right purchasing decision.
+
+
+# This Project has been developed under Future Ready Talent Internship Program
+# This is developed by M Chandrika , Annamacharya Institute of Technology & Sciences,Tirupati
